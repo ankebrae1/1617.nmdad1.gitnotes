@@ -1,9 +1,9 @@
 # 1617.nmdad1.gitnotes
 # 1617.nmdad1.gitnotes
 
-PERSONALIA
-Anke Braeckman
-Hanselaarstraat 27 9080 Beervelde
+PERSONALIA <br>
+Anke Braeckman <br>
+Hanselaarstraat 27 9080 Beervelde <br>
 09/12/1995
 Vrouw
 Belg
