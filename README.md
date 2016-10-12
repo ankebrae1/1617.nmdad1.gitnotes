@@ -4,32 +4,32 @@
 PERSONALIA <br>
 Anke Braeckman <br>
 Hanselaarstraat 27 9080 Beervelde <br>
-09/12/1995
-Vrouw
-Belg
-Vrijgezel
-0476338324
-anke.braeckman@student.arteveldehs.be
-ankebraeckman.be
-facebook/ankebraeckman
+09/12/1995<br>
+Vrouw<br>
+Belg<br>
+Vrijgezel<br>
+0476338324<br>
+anke.braeckman@student.arteveldehs.be<br>
+ankebraeckman.be<br>
+facebook/ankebraeckman<br>
 
-OPLEIDINGEN
-Grafische en digitale media
+OPLEIDINGEN<br>
+Grafische en digitale media<br>
 
-WERKERVARINGEN
-Bleckmann, Parlevliet, Breughel
+WERKERVARINGEN<br>
+Bleckmann, Parlevliet, Breughel<br>
 
-CURSUSSEN EN WORKSHOPS
-/
+CURSUSSEN EN WORKSHOPS<br>
+/<br>
 
-NEVENACTIVITEITEN
-klj
+NEVENACTIVITEITEN<br>
+klj<br>
 
-COMPUTERKENNIS
-adobe programma's
-html, css, javascript
+COMPUTERKENNIS<br>
+adobe programma's<br>
+html, css, javascript<br>
 
-TALENKENNIS
-Nederlands : 10
-Engels : 7
-Frans : 4
+TALENKENNIS<br>
+Nederlands : 10<br>
+Engels : 7<br>
+Frans : 4<br>
