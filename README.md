@@ -14,3 +14,22 @@ ankebraeckman.be
 facebook/ankebraeckman
 
 OPLEIDINGEN
+Grafische en digitale media
+
+WERKERVARINGEN
+Bleckmann, Parlevliet, Breughel
+
+CURSUSSEN EN WORKSHOPS
+/
+
+NEVENACTIVITEITEN
+klj
+
+COMPUTERKENNIS
+adobe programma's
+html, css, javascript
+
+TALENKENNIS
+Nederlands : 10
+Engels : 7
+Frans : 4
