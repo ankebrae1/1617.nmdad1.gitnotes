@@ -1,7 +1,7 @@
 # 1617.nmdad1.gitnotes
 # 1617.nmdad1.gitnotes
 
-<b>PERSONALIA</b>  
+<ul><b>PERSONALIA</b></ul>  
 <img src="Foto.jpg" width="30%" height="30%" style="float:right;"</img>
 - Naam: Anke Braeckman 
 - Adres: Hanselaarstraat 27 9080 Beervelde
@@ -14,25 +14,21 @@
 
 <ul><b>OPLEIDINGEN</b></ul>
 - Middelbaar: Sociaal en technische wetenschappen
-- Hoger onderwijs: Grafische en digitale media
-<br>
+- Hoger onderwijs: Grafische en digitale media  
 
 <ul><b>WERKERVARINGEN</b></ul>
-<li>Kelner: Breughel</li>
-<li>Inpakker: Bleckmann</li>
-<li>Administratie: Parlevliet</li>
-<br>
+- Kelner: Breughel
+- Inpakker: Bleckmann
+- Administratie: Parlevliet  
 
 <ul><b>NEVENACTIVITEITEN</b></ul>
-<li>klj</li>
-<br>
+- klj  
 
 <ul><b>COMPUTERKENNIS</b></ul>
-<li>adobe programma's</li>
-<li>html, css, javascript</li>
-<br>
+- adobe programma's
+- html, css, javascript  
 
 <ul><b>TALENKENNIS</b></ul>
-<li>Nederlands : 10</li>
-<li>Engels : 7</li>
-<li>Frans : 4</li>
+- Nederlands : 10
+- Engels : 7
+- Frans : 4
