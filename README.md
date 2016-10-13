@@ -12,7 +12,7 @@ telefoonnummer: 0476338324<br>
 e-mail adres: anke.braeckman@student.arteveldehs.be<br>
 
 <b>OPLEIDINGEN</b><br>
-Middelbaar: Sociaal en technische wetenschappen
+Middelbaar: Sociaal en technische wetenschappen<br>
 Hoger onderwijs: Grafische en digitale media<br>
 
 <b>WERKERVARINGEN</b><br>
