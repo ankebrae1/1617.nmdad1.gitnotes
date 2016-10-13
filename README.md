@@ -1,9 +1,9 @@
 # 1617.nmdad1.gitnotes
 # 1617.nmdad1.gitnotes
 
-<ul><b>PERSONALIA</b></ul> <br>
-<li>Naam: Anke Braeckman</li> <br>
-<li>Adres: Hanselaarstraat 27 9080 Beervelde </li><br>
+<ul><b>PERSONALIA</b></ul><br>
+<li>Naam: Anke Braeckman</li> 
+<li>Adres: Hanselaarstraat 27 9080 Beervelde </li>
 Geboortedatum: 09/12/1995<br>
 Geslacht: Vrouw<br>
 Nationaliteit: Belg<br>
