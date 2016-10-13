@@ -1,7 +1,7 @@
 # 1617.nmdad1.gitnotes
 # 1617.nmdad1.gitnotes
 
-<st>PERSONALIA</st> <br>
+<b>PERSONALIA</b> <br>
 Anke Braeckman <br>
 Hanselaarstraat 27 9080 Beervelde <br>
 09/12/1995<br>
