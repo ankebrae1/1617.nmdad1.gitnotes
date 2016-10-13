@@ -1,7 +1,7 @@
 # 1617.nmdad1.gitnotes
 # 1617.nmdad1.gitnotes
 
-<b>PERSONALIA</b><br>
+<b>PERSONALIA</b>  
 <img src="Foto.jpg" width="30%" height="30%" style="float:right;"</img>
 - Naam: Anke Braeckman 
 - Adres: Hanselaarstraat 27 9080 Beervelde
@@ -10,8 +10,7 @@
 - Nationaliteit: Belg
 - Burgerlijke staat: Vrijgezel
 - telefoonnummer: 0476 33 83 24
-- e-mail adres: anke.braeckman@student.arteveldehs.be
-<br>
+- e-mail adres: anke.braeckman@student.arteveldehs.be  
 
 <ul><b>OPLEIDINGEN</b></ul>
 - Middelbaar: Sociaal en technische wetenschappen
