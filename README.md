@@ -16,7 +16,9 @@ Middelbaar: Sociaal en technische wetenschappen<br>
 Hoger onderwijs: Grafische en digitale media<br>
 
 <b>WERKERVARINGEN</b><br>
-Bedrijven: Bleckmann, Parlevliet, Breughel<br>
+Kelner: Breughel<br>
+Inpakker: Bleckmann<br>
+Administratie: Parlevliet<br>
 
 <b>NEVENACTIVITEITEN</b><br>
 klj<br>
