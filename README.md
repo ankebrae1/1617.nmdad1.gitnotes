@@ -2,34 +2,30 @@
 # 1617.nmdad1.gitnotes
 
 <b>PERSONALIA</b> <br>
-Anke Braeckman <br>
-Hanselaarstraat 27 9080 Beervelde <br>
-09/12/1995<br>
-Vrouw<br>
-Belg<br>
-Vrijgezel<br>
-0476338324<br>
-anke.braeckman@student.arteveldehs.be<br>
-ankebraeckman.be<br>
-facebook/ankebraeckman<br>
+Naam: Anke Braeckman <br>
+Adres: Hanselaarstraat 27 9080 Beervelde <br>
+Geboortedatum: 09/12/1995<br>
+Geslacht: Vrouw<br>
+Nationaliteit: Belg<br>
+Burgerlijke staat: Vrijgezel<br>
+telefoonnummer: 0476338324<br>
+e-mail adres: anke.braeckman@student.arteveldehs.be<br>
 
-OPLEIDINGEN<br>
-Grafische en digitale media<br>
+<b>OPLEIDINGEN</b><br>
+Middelbaar: Sociaal en technische wetenschappen
+Hoger onderwijs: Grafische en digitale media<br>
 
-WERKERVARINGEN<br>
-Bleckmann, Parlevliet, Breughel<br>
+<b>WERKERVARINGEN</b><br>
+Bedrijven: Bleckmann, Parlevliet, Breughel<br>
 
-CURSUSSEN EN WORKSHOPS<br>
-/<br>
-
-NEVENACTIVITEITEN<br>
+<b>NEVENACTIVITEITEN</b><br>
 klj<br>
 
-COMPUTERKENNIS<br>
+<b>COMPUTERKENNIS</b><br>
 adobe programma's<br>
 html, css, javascript<br>
 
-TALENKENNIS<br>
+<b>TALENKENNIS</b><br>
 Nederlands : 10<br>
 Engels : 7<br>
 Frans : 4<br>
