@@ -10,22 +10,27 @@
 <li>Burgerlijke staat: Vrijgezel</li>
 <li>telefoonnummer: 0476338324</li>
 <li>e-mail adres: anke.braeckman@student.arteveldehs.be</li>
+<br>
 
 <ul><b>OPLEIDINGEN</b></ul><br>
 <li>Middelbaar: Sociaal en technische wetenschappen</li>
 <li>Hoger onderwijs: Grafische en digitale media</li>
+<br>
 
 <ul><b>WERKERVARINGEN</b></ul><br>
 <li>Kelner: Breughel</li>
 <li>Inpakker: Bleckmann</li>
 <li>Administratie: Parlevliet</li>
+<br>
 
 <ul><b>NEVENACTIVITEITEN</b></ul><br>
 <li>klj</li>
+<br>
 
 <ul><b>COMPUTERKENNIS</b></ul><br>
 <li>adobe programma's</li>
 <li>html, css, javascript</li>
+<br>
 
 <ul><b>TALENKENNIS</b></ul><br>
 <li>Nederlands : 10</li>
