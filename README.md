@@ -3,8 +3,8 @@
 
 <ul><b>PERSONALIA</b></ul>
 <img src="Foto.jpg" width="30%" height="30%" style="float:right;"</img>
-<li>Naam: Anke Braeckman</li> 
-<li>Adres: Hanselaarstraat 27 9080 Beervelde </li>
+- Naam: Anke Braeckman 
+- Adres: Hanselaarstraat 27 9080 Beervelde
 <li>Geboortedatum: 09/12/1995</li>
 <li>Geslacht: Vrouw</li>
 <li>Nationaliteit: Belg</li>
