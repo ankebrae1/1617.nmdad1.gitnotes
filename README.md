@@ -4,30 +4,30 @@
 <ul><b>PERSONALIA</b></ul><br>
 <li>Naam: Anke Braeckman</li> 
 <li>Adres: Hanselaarstraat 27 9080 Beervelde </li>
-Geboortedatum: 09/12/1995<br>
-Geslacht: Vrouw<br>
-Nationaliteit: Belg<br>
-Burgerlijke staat: Vrijgezel<br>
-telefoonnummer: 0476338324<br>
-e-mail adres: anke.braeckman@student.arteveldehs.be<br>
+<li>Geboortedatum: 09/12/1995</li>
+<li>Geslacht: Vrouw</li>
+<li>Nationaliteit: Belg</li>
+<li>Burgerlijke staat: Vrijgezel</li>
+<li>telefoonnummer: 0476338324</li>
+<li>e-mail adres: anke.braeckman@student.arteveldehs.be</li>
 
-<b>OPLEIDINGEN</b><br>
-Middelbaar: Sociaal en technische wetenschappen<br>
-Hoger onderwijs: Grafische en digitale media<br>
+<ul><b>OPLEIDINGEN</b></ul><br>
+<li>Middelbaar: Sociaal en technische wetenschappen</li>
+<li>Hoger onderwijs: Grafische en digitale media</li>
 
-<b>WERKERVARINGEN</b><br>
-Kelner: Breughel<br>
-Inpakker: Bleckmann<br>
-Administratie: Parlevliet<br>
+<ul><b>WERKERVARINGEN</b></ul><br>
+<li>Kelner: Breughel</li>
+<li>Inpakker: Bleckmann</li>
+<li>Administratie: Parlevliet</li>
 
-<b>NEVENACTIVITEITEN</b><br>
-klj<br>
+<ul><b>NEVENACTIVITEITEN</b></ul><br>
+<li>klj</li>
 
-<b>COMPUTERKENNIS</b><br>
-adobe programma's<br>
-html, css, javascript<br>
+<ul><b>COMPUTERKENNIS</b></ul><br>
+<li>adobe programma's</li>
+<li>html, css, javascript</li>
 
-<b>TALENKENNIS</b><br>
-Nederlands : 10<br>
-Engels : 7<br>
-Frans : 4<br>
+<ul><b>TALENKENNIS</b></ul><br>
+<li>Nederlands : 10</li>
+<li>Engels : 7</li>
+<li>Frans : 4</li>
