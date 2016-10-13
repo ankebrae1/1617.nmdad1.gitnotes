@@ -1,8 +1,10 @@
 # 1617.nmdad1.gitnotes
 # 1617.nmdad1.gitnotes
-
+<style>
+img{float:right;}
+</style>
 <ul><b>PERSONALIA</b></ul>
-<img src="Foto.jpg" width="30%" height="30%" style="float:right;"></img>
+<img src="Foto.jpg" width="30%" height="30%"></img>
 <li>Naam: Anke Braeckman</li> 
 <li>Adres: Hanselaarstraat 27 9080 Beervelde </li>
 <li>Geboortedatum: 09/12/1995</li>
